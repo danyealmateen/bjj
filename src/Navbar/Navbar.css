@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/* .contentContainer {
+
+} */
+
+.navbar {
+    font-family: "Lobster", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 16px;
+    margin-top: 0;
+    border: 2px solid black;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    margin: 8px;
+}
+
+.link:hover {
+    color: gray;
+}
+
+.heroImageDiv {
+    display: flex;
+}
+
+.heroImg {
+    width: 600px;
+    border-radius: 10%;
+    padding: 16px;
+}
+
+.titleDiv {
+    font-family: "Lobster", sans-serif;
+    margin: 16px;
+    text-align: center;
+}
+
+.header {
+    font-size: 90px;
+}
+
+.subHeader {
+    font-size: 45px;
+    text-decoration: overline;
+}
+
+.premiumImg {
+    margin-left: auto;
+    height: 350px;
+}
+
+.brazilSpan {
+    color: rgb(7, 212, 24);
+}
+
+.jiuSpan {
+    color: rgb(209, 209, 5);
+}
+
+.jitsuSpan {
+    color: blue;
+}
