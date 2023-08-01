@@ -16,15 +16,15 @@ function Navbar() {
                 <img className="chewieImg" src={chewieImg} alt="hero" />
                 <img className="premiumImg" src={premium} alt="hero" />
             </div>
+            <hr />
 
-            <div className="navbar">
+            {/* <div className="navbar">
                 <a className="link" href="/">Hem</a>
                 <a className="link" href="/">Blog</a>
                 <a className="link" href="/">Heroes</a>
                 <a className="link" href="/">Kontakt</a>
-            </div>
+            </div> */}
         </div>
-
     )
 }
 
